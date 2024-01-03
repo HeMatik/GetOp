@@ -1,0 +1,4 @@
+name: GetOp
+version: '1.0-SNAPSHOT'
+main: org.example.getop.getop.GetOp
+api-version: '1.20'
